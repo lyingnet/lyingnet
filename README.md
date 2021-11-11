@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @oexfcnet
+- 👋 Hi, I’m @lying
 - 👀 I’m interested in Web Development / Discord Bot Creation
 - 🌱 I’m currently learning Typescript / Java 
 - 💞️ I’m looking to collaborate on Itsuki Bot
