@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lying
+- 👋 Hi, I’m @lyingnet
 - 👀 I’m interested in Web Development / Discord Bot Creation
 - 🌱 I’m currently learning Typescript / Java 
 - 💞️ I’m looking to collaborate on Itsuki Bot
